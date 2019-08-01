@@ -1,8 +1,14 @@
 # bcfe_react_rebuild
 
-logo-height: 64px
-tabbar-height: 56px
-padding: 16px
-sub-tabbar-height: 48px
-padding: 16px
-paginator: 56px
+react simple dashboard
+
+* auth0
+* webpack
+* babel
+* complicated redux saga
+* various types of charts and datatables
+* react-router with queries
+* flexible with plugins
+* styles
+
+Working fine.!!..
